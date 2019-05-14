@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Business/business.iml" filepath="$PROJECT_DIR$/Business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/common.iml" filepath="$PROJECT_DIR$/Common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compose.iml" filepath="$PROJECT_DIR$/compose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mysql/mysql.iml" filepath="$PROJECT_DIR$/Mysql/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service/service.iml" filepath="$PROJECT_DIR$/Service/service.iml" />
+    </modules>
+  </component>
+</project>
