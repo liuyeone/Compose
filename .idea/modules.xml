@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllService/AllService.iml" filepath="$PROJECT_DIR$/AllService/AllService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Business/business.iml" filepath="$PROJECT_DIR$/Business/business.iml" />
       <module fileurl="file://$PROJECT_DIR$/Common/common.iml" filepath="$PROJECT_DIR$/Common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/compose.iml" filepath="$PROJECT_DIR$/compose.iml" />

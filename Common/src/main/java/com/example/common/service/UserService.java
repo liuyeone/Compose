@@ -16,7 +16,6 @@ public class UserService {
     @Autowired
     private PoUserMapper poUserMapper;
 
-
     public JSONObject login(String username, String password) {
         JSONObject result = new JSONObject();
 

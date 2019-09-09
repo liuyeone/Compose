@@ -9,15 +9,22 @@
         <module name="business" />
         <module name="common" />
         <module name="mysql" />
+        <module name="AllService" />
         <module name="service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AllService" target="1.8" />
       <module name="business" target="1.8" />
       <module name="common" target="1.8" />
       <module name="compose" target="1.8" />
       <module name="mysql" target="1.8" />
       <module name="service" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AllService" options="" />
+    </option>
   </component>
 </project>
